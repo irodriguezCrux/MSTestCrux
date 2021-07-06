@@ -19,7 +19,7 @@ namespace UnitTest.Test
             //
 
             //Assert
-            Assert.AreEqual(5, result);
+            Assert.AreEqual(7, result);
 
         }
     }
