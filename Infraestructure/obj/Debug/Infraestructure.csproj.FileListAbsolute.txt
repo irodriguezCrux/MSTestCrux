@@ -4,3 +4,8 @@ C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructu
 C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.dll
 C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.pdb
