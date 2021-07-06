@@ -1,0 +1,6 @@
+C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.pdb

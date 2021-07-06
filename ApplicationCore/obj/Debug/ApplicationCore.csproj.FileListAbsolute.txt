@@ -1,0 +1,9 @@
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\bin\Debug\ApplicationCore.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\bin\Debug\ApplicationCore.pdb
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\bin\Debug\Infraestructure.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\bin\Debug\Infraestructure.pdb
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\obj\Debug\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\obj\Debug\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\obj\Debug\ApplicationCore.csproj.CopyComplete
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\obj\Debug\ApplicationCore.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\ApplicationCore\obj\Debug\ApplicationCore.pdb

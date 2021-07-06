@@ -1,0 +1,5 @@
+C:\Users\irodriguez\Downloads\MSTestCrux\.vs\MSTestCrux\v16\lut\0\b\ApplicationCore\bin\Debug\ApplicationCore.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\.vs\MSTestCrux\v16\lut\0\i\ApplicationCore\Debug\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\.vs\MSTestCrux\v16\lut\0\i\ApplicationCore\Debug\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\.vs\MSTestCrux\v16\lut\0\i\ApplicationCore\Debug\ApplicationCore.csproj.CopyComplete
+C:\Users\irodriguez\Downloads\MSTestCrux\.vs\MSTestCrux\v16\lut\0\i\ApplicationCore\Debug\ApplicationCore.dll

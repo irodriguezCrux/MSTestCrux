@@ -1,0 +1,16 @@
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\ApplicationCore.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\ApplicationCore.pdb
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\irodriguez\Downloads\MSTestCrux\UnitTest\obj\Debug\UnitTest.pdb
