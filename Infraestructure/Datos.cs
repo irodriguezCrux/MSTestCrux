@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Infraestructure
 {
-    class Prueba
+    public class Datos
     {
+        public int prueba { get; set; }
     }
 }
