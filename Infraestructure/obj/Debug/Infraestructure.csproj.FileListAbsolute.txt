@@ -9,3 +9,4 @@ C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación i
 C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.csproj.CoreCompileInputs.cache
 C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.dll
 C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\irodriguez\OneDrive - Crux Consultores S.A\Proyecto de Investigación interno\MSTestCrux\Infraestructure\obj\Debug\Infraestructure.csprojAssemblyReference.cache
